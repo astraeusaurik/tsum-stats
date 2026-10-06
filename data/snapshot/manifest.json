@@ -1,0 +1,168 @@
+{
+  "kind": "tsum-snapshot",
+  "format": 1,
+  "generatedAt": "2026-10-06T13:38:38Z",
+  "version": "0.9",
+  "rounds": 1435,
+  "first": "2026-09-30 19:09:18",
+  "last": "2026-10-06 13:32:48",
+  "months": [
+    {
+      "month": "2026-09",
+      "file": "rounds-2026-09.json",
+      "rounds": 39,
+      "first": "2026-09-30 19:09:18",
+      "last": "2026-09-30 23:55:06",
+      "sha": "adec46847efe7b25"
+    },
+    {
+      "month": "2026-10",
+      "file": "rounds-2026-10.json",
+      "rounds": 1396,
+      "first": "2026-10-01 00:09:05",
+      "last": "2026-10-06 13:32:48",
+      "sha": "8d927c0fd97bfbbb"
+    }
+  ],
+  "tsums": [
+    {
+      "tsum": "arielplus",
+      "rounds": 901,
+      "avgScore": null,
+      "maxScore": null,
+      "avgCoins": null,
+      "minCoins": null,
+      "maxCoins": null,
+      "avgBaseCoins": null,
+      "avgFinalCoins": null,
+      "coins": null,
+      "totalSeconds": null,
+      "avgSeconds": null,
+      "coinsPerSec": null,
+      "stdCoins": null,
+      "q1Coins": null,
+      "medianCoins": null,
+      "q3Coins": null,
+      "p90Coins": null
+    },
+    {
+      "tsum": "roxas",
+      "rounds": 350,
+      "avgScore": null,
+      "maxScore": null,
+      "avgCoins": null,
+      "minCoins": null,
+      "maxCoins": null,
+      "avgBaseCoins": null,
+      "avgFinalCoins": null,
+      "coins": null,
+      "totalSeconds": null,
+      "avgSeconds": null,
+      "coinsPerSec": null,
+      "stdCoins": null,
+      "q1Coins": null,
+      "medianCoins": null,
+      "q3Coins": null,
+      "p90Coins": null
+    },
+    {
+      "tsum": "villainsset",
+      "rounds": 77,
+      "avgScore": null,
+      "maxScore": null,
+      "avgCoins": null,
+      "minCoins": null,
+      "maxCoins": null,
+      "avgBaseCoins": null,
+      "avgFinalCoins": null,
+      "coins": null,
+      "totalSeconds": null,
+      "avgSeconds": null,
+      "coinsPerSec": null,
+      "stdCoins": null,
+      "q1Coins": null,
+      "medianCoins": null,
+      "q3Coins": null,
+      "p90Coins": null
+    },
+    {
+      "tsum": "beastda",
+      "rounds": 57,
+      "avgScore": null,
+      "maxScore": null,
+      "avgCoins": null,
+      "minCoins": null,
+      "maxCoins": null,
+      "avgBaseCoins": null,
+      "avgFinalCoins": null,
+      "coins": null,
+      "totalSeconds": null,
+      "avgSeconds": null,
+      "coinsPerSec": null,
+      "stdCoins": null,
+      "q1Coins": null,
+      "medianCoins": null,
+      "q3Coins": null,
+      "p90Coins": null
+    },
+    {
+      "tsum": "moana3",
+      "rounds": 50,
+      "avgScore": null,
+      "maxScore": null,
+      "avgCoins": null,
+      "minCoins": null,
+      "maxCoins": null,
+      "avgBaseCoins": null,
+      "avgFinalCoins": null,
+      "coins": null,
+      "totalSeconds": null,
+      "avgSeconds": null,
+      "coinsPerSec": null,
+      "stdCoins": null,
+      "q1Coins": null,
+      "medianCoins": null,
+      "q3Coins": null,
+      "p90Coins": null
+    }
+  ],
+  "devices": [
+    {
+      "device": "Device 1",
+      "rounds": 481
+    },
+    {
+      "device": "Device 2",
+      "rounds": 94
+    }
+  ],
+  "medalTsums": [
+    "arielplus"
+  ],
+  "themes": [
+    {
+      "file": "daylight.css",
+      "name": "Daylight"
+    },
+    {
+      "file": "deep-sea.css",
+      "name": "Deep Sea"
+    },
+    {
+      "file": "ember.css",
+      "name": "Ember"
+    },
+    {
+      "file": "halloween.css",
+      "name": "Halloween"
+    }
+  ],
+  "owned": [
+    {
+      "device": "Device 3",
+      "build": "global",
+      "stamp": "20261001-133432",
+      "file": "owned-1.json"
+    }
+  ]
+}
