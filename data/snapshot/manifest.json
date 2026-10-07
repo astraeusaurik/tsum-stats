@@ -1,11 +1,11 @@
 {
   "kind": "tsum-snapshot",
   "format": 1,
-  "generatedAt": "2026-10-07T19:50:22Z",
+  "generatedAt": "2026-10-07T19:51:17Z",
   "version": "0.12",
-  "rounds": 1891,
+  "rounds": 1892,
   "first": "2026-09-30 19:09:18",
-  "last": "2026-10-07 19:43:53",
+  "last": "2026-10-07 19:50:10",
   "months": [
     {
       "month": "2026-09",
@@ -18,10 +18,10 @@
     {
       "month": "2026-10",
       "file": "rounds-2026-10.json",
-      "rounds": 1852,
+      "rounds": 1853,
       "first": "2026-10-01 00:09:05",
-      "last": "2026-10-07 19:43:53",
-      "sha": "860e4e57ce8c3167"
+      "last": "2026-10-07 19:50:10",
+      "sha": "3133fa2b5933ee54"
     }
   ],
   "tsums": [
@@ -67,7 +67,7 @@
     },
     {
       "tsum": "villainsset",
-      "rounds": 117,
+      "rounds": 118,
       "avgScore": null,
       "maxScore": null,
       "avgCoins": null,
@@ -129,7 +129,7 @@
   "devices": [
     {
       "device": "Device 1",
-      "rounds": 937
+      "rounds": 938
     },
     {
       "device": "Device 2",
