@@ -1,11 +1,11 @@
 {
   "kind": "tsum-snapshot",
   "format": 1,
-  "generatedAt": "2026-10-06T13:38:38Z",
-  "version": "0.9",
-  "rounds": 1435,
+  "generatedAt": "2026-10-07T19:50:22Z",
+  "version": "0.12",
+  "rounds": 1891,
   "first": "2026-09-30 19:09:18",
-  "last": "2026-10-06 13:32:48",
+  "last": "2026-10-07 19:43:53",
   "months": [
     {
       "month": "2026-09",
@@ -18,16 +18,16 @@
     {
       "month": "2026-10",
       "file": "rounds-2026-10.json",
-      "rounds": 1396,
+      "rounds": 1852,
       "first": "2026-10-01 00:09:05",
-      "last": "2026-10-06 13:32:48",
-      "sha": "8d927c0fd97bfbbb"
+      "last": "2026-10-07 19:43:53",
+      "sha": "860e4e57ce8c3167"
     }
   ],
   "tsums": [
     {
       "tsum": "arielplus",
-      "rounds": 901,
+      "rounds": 1317,
       "avgScore": null,
       "maxScore": null,
       "avgCoins": null,
@@ -67,7 +67,7 @@
     },
     {
       "tsum": "villainsset",
-      "rounds": 77,
+      "rounds": 117,
       "avgScore": null,
       "maxScore": null,
       "avgCoins": null,
@@ -129,7 +129,7 @@
   "devices": [
     {
       "device": "Device 1",
-      "rounds": 481
+      "rounds": 937
     },
     {
       "device": "Device 2",
